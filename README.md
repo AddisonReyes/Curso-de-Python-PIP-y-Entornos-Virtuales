@@ -4,7 +4,7 @@
 
 To run the game you have to follow this instructions in your terminal
 
-'''sh
+```sh
 cd game
 py main.py
-'''
+```
